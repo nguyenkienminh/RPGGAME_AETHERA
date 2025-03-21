@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Ladder
+  - DoorMove
+  - item
+  - shop
+  - crafting
+  - stash
+  - NPC
+  - Text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Background
+  - Player
+  - Enemy
+  - Sword
+  - Item
+  - Ladder
+  - EnemyRock
+  - NPC
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1842059175
+    locked: 0
+  - name: Ground
+    uniqueID: 3021071647
+    locked: 0
+  - name: CheckPoint
+    uniqueID: 2731598379
+    locked: 0
+  - name: Item
+    uniqueID: 2441362005
+    locked: 0
+  - name: Enemy
+    uniqueID: 463389049
+    locked: 0
+  - name: Player
+    uniqueID: 3912593099
+    locked: 0
+  - name: FX
+    uniqueID: 3886115393
+    locked: 0
+  m_RenderingLayers:
+  - Default

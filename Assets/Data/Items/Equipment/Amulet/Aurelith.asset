@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c8c223cc4b68304c92d3eb706583358, type: 3}
+  m_Name: Aurelith
+  m_EditorClassIdentifier: 
+  ItemType: 1
+  itemName: 'Aurelith '
+  icon: {fileID: -102417002, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  itemId: 13489fe18854813429d9a3827bcf3c0d
+  dropChange: 0
+  equipmentType: 2
+  itemEffects: []
+  itemCooldown: 0
+  strength: 5
+  agility: 0
+  intelligence: 0
+  vitality: 5
+  damage: 5
+  critPower: 0
+  critChange: 0
+  health: 5
+  armor: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: a3f138f7225dc64418e9cdd3a086039c, type: 2}
+    stackSize: 8
+  - data: {fileID: 11400000, guid: 4f367622272a9fc488ef1717eac530c8, type: 2}
+    stackSize: 9
+  - data: {fileID: 11400000, guid: e285bdefdb206a0449e0f1e5e25f0e6d, type: 2}
+    stackSize: 13
+  - data: {fileID: 11400000, guid: 902ed25bbad65ed49affbcabfe9c7998, type: 2}
+    stackSize: 1
